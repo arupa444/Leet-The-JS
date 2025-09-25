@@ -10,4 +10,5 @@ var minimumTotal = function(triangle) {
     return triangle[0][0]
 };
 
+
 console.log(minimumTotal([[2],[3,4],[6,5,7],[4,1,8,3]]))
