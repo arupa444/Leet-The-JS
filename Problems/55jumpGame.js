@@ -21,5 +21,6 @@ var canJump = function(nums) {
     return true;
 };
 
+
 console.log(canJump([0,0,0,0,0,0,0]))
 console.log(canJump([2,5,0,0,0,0,0,0]))
